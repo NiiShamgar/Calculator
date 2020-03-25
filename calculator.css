@@ -1,0 +1,29 @@
+.nav{
+    width: 80%;
+    font-size: xx-large;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+.display{
+    background-color: rgb(120, 121, 122);
+    text-align: right;
+    color: white;
+    height: 50px;
+    padding: 0px 20px;
+   }
+
+.orange{
+    background-color: orange;
+    color: white;
+    border: 0.2px solid rgb(153, 149, 149);
+    text-align: center;
+    
+}
+
+.grey{
+    background-color: rgb(192, 189, 189);
+    text-align: center;
+    border: 0.2px solid rgb(114, 110, 110);
+    
+}
